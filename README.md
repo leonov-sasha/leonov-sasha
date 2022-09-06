@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Sasha Leonov
 
-I'm fullstack developer in NeoStackTechnology, Tomsk
+I'm backend .NET developer in BCS Fintech, Novosibirsk
 
 - 🎓 Graduated from TPU with a bachelor's degree in computer science
 - 🌱 Learning all about GIS
