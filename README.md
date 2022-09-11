@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Sasha Leonov
 
-![Custom badge](https://img.shields.io/endpoint?color=blue&label=telegram&logo=telegram&style=flat-square&url=https%3A%2F%2Ft.me%2Fpipipipy)
+[![Custom badge](https://img.shields.io/endpoint?color=blue&label=telegram&logo=telegram&style=flat-square)](https://t.me/pipipipy)
 
 I'm backend .NET developer in BCS Fintech, Novosibirsk
 
