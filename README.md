@@ -6,8 +6,6 @@ I'm backend .NET developer in BCS Fintech, Novosibirsk
 
 - 🎓 Graduated from TPU with a bachelor's degree in computer science
 - 🌱 Learning all about GIS and .NET
-- 👯 I’m looking to collaborate on open source/commercial projects
-- 📫 telegram: @pipipipy
 
 ### 𝗦𝘁𝗮𝘁𝘀
 
