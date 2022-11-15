@@ -1,5 +1,5 @@
 [![Custom badge](https://img.shields.io/badge/-Sasha%20@pipipipy-blue?color=blue&label=telegram&logo=telegram&style=flat-square)](https://t.me/pipipipy)
-[![Custom badge](https://img.shields.io/badge/-Sasha%20gc.cpp#6380-blue?color=violet&label=discord&logo=discord&style=flat-square)](https://discord.gg/AVrGBdPw)
+[![Custom badge](https://img.shields.io/badge/-Sasha%20gc.cpp%23%0A6380-blue?color=violet&label=discord&logo=discord&style=flat-square)](https://discord.gg/AVrGBdPw)
 <h1 align="center">Hey 👋, I'm Sasha Leonov</h1>
 
 <p align="center"> 
