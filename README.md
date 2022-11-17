@@ -2,6 +2,11 @@
 [![Custom badge](https://img.shields.io/badge/-Sasha%20gc.cpp%236380-blue?color=violet&label=discord&logo=discord&style=flat-square)](https://discord.gg/AVrGBdPw)
 <h1 align="center">Hey 👋, I'm Sasha Leonov</h1>
 
+I'm backend .NET developer in BCS Fintech, Novosibirsk
+
+- 🎓 Graduated from TPU with a bachelor's degree in computer science
+- 🌱 Learning all about GIS and .NET
+
 <p align="center"> 
  <strong>
   Professional skills
@@ -15,11 +20,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
 </p>
-
-I'm backend .NET developer in BCS Fintech, Novosibirsk
-
-- 🎓 Graduated from TPU with a bachelor's degree in computer science
-- 🌱 Learning all about GIS and .NET
 
 <p align="center">
  <a href="#" alt="8ait's github stats">
