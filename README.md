@@ -7,7 +7,6 @@
 I'm backend .NET developer in BCS Fintech, Novosibirsk
 
 - 🎓 Graduated from TPU with a bachelor's degree in computer science
-- 🌱 Learning all about GIS and .NET
 
 <p align="center">
  <a href="#" alt="8ait's github stats">
