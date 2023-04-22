@@ -2,12 +2,6 @@
 [![Custom badge](https://img.shields.io/badge/-%20gc.cpp%236380-blue?color=violet&label=discord&logo=discord&style=flat-square)](https://discord.gg/AVrGBdPw)
 [![Custom badge](https://img.shields.io/badge/-8ait-blue?color=green&label=HTB&logo=hack-the-box&style=flat-square)](https://www.hackthebox.com/home/users/profile/265960)
 
-I'm backend .NET developer in BCS Fintech, Novosibirsk
+Hey, I'm Aleksandr Leonov, writing software mostly in .NET.
 
-- 🎓 Graduated from TPU with a bachelor's degree in computer science
-
-<p align="center">
- <a href="#" alt="8ait's github stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=8ait&show_icons=true&theme=tokyonight" />
- </a>
-</p>
+<img alt="metrics" src="github-metrics.svg">
