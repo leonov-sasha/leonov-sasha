@@ -3,3 +3,7 @@
 Hey, I'm Aleksandr Leonov, writing software mostly in .NET.
 
 <img alt="metrics" src="github-metrics.svg">
+
+<a href="https://github.com/leonov-sasha">
+  <img src="https://github-readme-stats.vercel.app/api?username=leonov-sasha&count_private=true&show_icons=true" />
+</a>
